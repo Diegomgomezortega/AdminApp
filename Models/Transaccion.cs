@@ -5,7 +5,7 @@ using AdminApp.Models;
 namespace AdminApp.Models;
 public class Transaccion
 {
-    //DataAnotation: No convinar con Fluent Api
+    //DataAnotation: No combinar con Fluent Api
     // [Key]
     public Guid TransactionId { get; set; }
 
